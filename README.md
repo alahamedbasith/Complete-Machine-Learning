@@ -98,3 +98,11 @@
 
 ## Projects
 Projects are available in the projects folder in the repository.
+
+## Requirements
+
+- **Strong in Python and Data Science Libraries**
+- **Strong in Descriptive and Inferential Statistics**
+- **Strong in Data Mining with Respect to Feature Engineering and Feature Selection**
+- **Basics in Calculus and Algebra** (12th Grade Math is Enough)
+
