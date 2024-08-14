@@ -1,5 +1,3 @@
-# Complete-Machine-Learning
-
 # Complete Machine Learning with End-to-End Deployment
 
 ## Lecture - 01
